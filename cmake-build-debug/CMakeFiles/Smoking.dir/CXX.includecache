@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Jack/CLionProjects/Smoking/main.cpp
+iostream
+-
+list
+-
+iterator
+-
+chrono
+-
+fstream
+-
+string
+-
+partOne.h
+/cygdrive/c/Users/Jack/CLionProjects/Smoking/partOne.h
+partTwo.h
+/cygdrive/c/Users/Jack/CLionProjects/Smoking/partTwo.h
+partThree.h
+/cygdrive/c/Users/Jack/CLionProjects/Smoking/partThree.h
+
+/cygdrive/c/Users/Jack/CLionProjects/Smoking/partOne.h
+
+/cygdrive/c/Users/Jack/CLionProjects/Smoking/partThree.h
+
+/cygdrive/c/Users/Jack/CLionProjects/Smoking/partTwo.h
+list
+-
+
